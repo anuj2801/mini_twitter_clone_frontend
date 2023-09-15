@@ -253,7 +253,7 @@ function Tweet(props) {
                   <div className="postedBy">{props.body.postedBy.username}</div>
               </Link>
                   |<div className="time">{props.body.postedTweetTime}</div>
-                  <div>{isEdited ? ". edited" : ""}</div>
+                  <div>{isEdited ? " *Edited" : ""}</div>
                 </div>
 
               {isUserActive && (

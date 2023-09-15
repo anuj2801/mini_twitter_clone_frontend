@@ -589,7 +589,7 @@ input:focus {
   position: absolute;
   width: 35px;
   height: 35px;
-  border: 5px solid #1da1f2;
+  border: 5px solid black;
   border-top-color: transparent;
   border-radius: 50%;
 }
@@ -607,6 +607,7 @@ input:focus {
   display: inline-block;
   overflow: hidden;
   background: #ffffff;
+  color: black;
 }
 
 .ldio-gkgg43sozzi {

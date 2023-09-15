@@ -141,7 +141,7 @@ function Sidebar() {
           </div>
         </li>
         <li className="sidebar-menu-items">
-          <Link to="/topic/sports">
+          <Link to={`/home/${activeUser}`}>
             <ImProfile />
             <div>Home</div>
           </Link>

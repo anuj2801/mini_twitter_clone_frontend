@@ -1,12 +1,16 @@
 import React from "react";
+import Header from "../components/Header";
+import Home from "../components/Home";
 import Sidebar from "../components/Sidebar";
-import TopicArea from "../components/TopicArea";
 
 function topic() {
   return (
     <div className="App">
       <Sidebar />
-      <TopicArea />
+      <div className="HeaderAndFeed">
+        <Header />
+        <Home />
+      </div>
     </div>
   );
 }
