@@ -1,0 +1,12 @@
+## mini_twitter_clone_frontend
+![home(with edit and delete)](https://github.com/anuj2801/mini_twitter_clone_frontend/assets/81874270/47f6f7a8-814b-4f63-85e1-93aca8485e83)
+![signin(1)](https://github.com/anuj2801/mini_twitter_clone_frontend/assets/81874270/ef859d0a-0178-4ffc-a2c2-5bf716019267)
+![signin](https://github.com/anuj2801/mini_twitter_clone_frontend/assets/81874270/6346ac24-dd88-4ec2-816b-988c6871d233)
+![signup](https://github.com/anuj2801/mini_twitter_clone_frontend/assets/81874270/99ea4132-e0f3-419b-a52a-640a60116522)
+![follow user](https://github.com/anuj2801/mini_twitter_clone_frontend/assets/81874270/9386a717-86f2-4f73-9cf7-74fb31c7cf54)
+![home page(tweets in chronological order) and like functionality](https://github.com/anuj2801/mini_twitter_clone_frontend/assets/81874270/6f55e0e2-e769-48ff-b7d3-fa89dd1bd630)
+![tweet with image upload and tag](https://github.com/anuj2801/mini_twitter_clone_frontend/assets/81874270/28ce84a1-7157-4e82-9230-53f651a84f5a)
+![tweet_edit_functionality](https://github.com/anuj2801/mini_twitter_clone_frontend/assets/81874270/cf14dd10-6557-45b0-927e-74759d5826e8)
+![home page(tweets in chronological order)](https://github.com/anuj2801/mini_twitter_clone_frontend/assets/81874270/fa17a493-b41e-4554-bf2d-eb7d25554875)
+![profile](https://github.com/anuj2801/mini_twitter_clone_frontend/assets/81874270/3e7ca359-42e7-4538-aaae-8bc5642c5c08)
+![search](https://github.com/anuj2801/mini_twitter_clone_frontend/assets/81874270/39a45d59-68ce-4eb4-90fc-a49c0fa3fc21)
